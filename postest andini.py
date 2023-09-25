@@ -1,0 +1,27 @@
+print (15*"=")
+print ("SELAMAT DATANG ")
+print (15*"="+"\n")
+
+print ("SILAHKAN LOGIN")
+nama = input("masukkan nama anda: ")
+nim = input("masukkan nim: ")
+print()
+
+print ("pilih mata uang yang akan di konversikan")
+print ("..............................")
+print ("1. konversi rupiah ke USD")
+print ("2. konversi rupiah ke yen")
+print ("3. konversi rupiah ke ringgit")
+print ("4. selesai")
+print ("..............................")
+print ()
+pilihan=input("pilih mata uang : ")
+masukan=input("masukan nominal (rupiah): ")
+print ()
+
+print(f"maka : 1000 rupiah senilai dengan: 9,66 yen")
+print ()
+
+print (14*"=")
+print ("TERIMA KASIH")
+print (14*"="+"\n")
